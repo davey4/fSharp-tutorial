@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v5u5udvRFkG6wzCbM0crVOyiQafS5T1SZlkWovGW+fHIv+9ZKKX3yh2LNvwNvrpbtX9qKm6RHR2/grya2T+5bA==",
+  "success": true,
+  "projectFilePath": "/app/MyFSharpApp/MyFSharpApp.fsproj",
+  "expectedPackageFiles": [
+    "/home/fSharp-tutorial/.nuget/packages/fsharp.core/4.7.2/fsharp.core.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
