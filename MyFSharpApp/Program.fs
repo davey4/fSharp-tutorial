@@ -11,6 +11,6 @@ open System
 // Define a new function to print a name.
 let printGreeting =
     printfn "Hello %s from F#!"
-
+let myName = "Dave"
 // Call your new function!
-do printGreeting "Dave"
+do printGreeting myName
